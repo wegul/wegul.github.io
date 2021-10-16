@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wegul"
+title: "Weigao Su 苏维高"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a B.Eng student in the College of Computer Sciences and Electronic Engineering at Hunan University.  
-I am currently supervised by Prof. Daibo Liu.
+I am currently a senior B.Eng student in the College of Computer Sciences and Electronic Engineering at Hunan University.  
+I am supervised by Prof. [Daibo Liu](https://sites.google.com/site/dbliuuestc/home).
+#I am currently looking for Ph.D 
 
 Research Interests
 ======
