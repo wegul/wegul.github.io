@@ -16,19 +16,18 @@ Mobile and ubiquitous computing, Internet of Things, Distributed Systems, etc. I
 
 Publication
 ======
-“Towards Device Independent Eavesdropping on Telephone Conversations with Built-in Accelerometer”
-Weigao Su*, Daibo Liu, Taiyuan Zhang, Hongbo Jiang. 
-Ubicomp / IMWUT 2022
-(will be published in Issue 4 of IMWUT Vol. 5, December 2021)
+“Towards Device Independent Eavesdropping on Telephone Conversations with Built-in Accelerometer”  
+Weigao Su*, Daibo Liu, Taiyuan Zhang, Hongbo Jiang.  
+Ubicomp / IMWUT 2021 (will be published in Issue 4 of IMWUT Vol. 5, December)
 
 News
 ======
 
 Current Projects
-======
-*Optimizing Video Streaming for High-speed Rails*
+======  
+*Optimizing Video Streaming for High-speed Rails*  
 ------
--Research on performance of LTE network in high mobility settings
--Research on cuurent adaptive bitrate streaming strategies
+-Research on performance of LTE network in high mobility settings  
+-Research on cuurent adaptive bitrate streaming strategies  
 -Design a video delivery framework based on crowdsourcing that provides real-time diagnosis to ensure QoE for passengers on HSR
 
