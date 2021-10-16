@@ -26,7 +26,6 @@ News
 Current Projects
 ======  
 *Optimizing Video Streaming for High-speed Rails*  
-------
 -Research on performance of LTE network in high mobility settings  
 -Research on cuurent adaptive bitrate streaming strategies  
 -Design a video delivery framework based on crowdsourcing that provides real-time diagnosis to ensure QoE for passengers on HSR
