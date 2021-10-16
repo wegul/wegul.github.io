@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SWG Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Weigao Su"
 description              : &description "B.Eng @ HNU CSEE"
