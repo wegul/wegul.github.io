@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wegul's Homepage
+title: "Wegul"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
