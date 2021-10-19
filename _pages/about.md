@@ -38,7 +38,7 @@ Current Projects
 *Optimizing Video Streaming for High-speed Rails*  
 -Research on performance of LTE network in high mobility settings  
 -Research on current adaptive bitrate streaming strategies  
--Research on TCP congestion control
+-Research on TCP congestion control  
 -Design a video delivery framework that provides real-time diagnosis to ensure QoE for passengers on HSR
 
 News  
