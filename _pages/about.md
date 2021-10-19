@@ -8,18 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a senior year B.Eng student in the College of Computer Sciences and Electronic Engineering at Hunan University, supervised by Prof. [Daibo Liu](https://sites.google.com/site/dbliuuestc/home).
+I am a senior year B.Eng student in the College of Computer Sciences and Electronic Engineering at Hunan University, supervised by Prof. [Daibo Liu](https://sites.google.com/site/dbliuuestc/home).
 
-
-*I am actively looking for a Ph.D position starting in 2022 fall.*
+*I am actively looking for a Ph.D position starting in 2022 fall. Please drop me a line if you would like to know more about me.*
 
 
 
 
 Research Interests
 ======
-Mobile and ubiquitous computing, Internet of Things, Distributed Systems, etc.  
-I am broadly interested in systems and networking research.
+I have broad interests in network and systems research. Particularly in the following topics:  
+- Security and privacy  
+- Edge computing  
+- Wireless network  
+- Video streaming
+
+I combine signal proceesing and machine learning to locate privacy risks on mobile devices. Recently, I am working on video analysis over dynamic LTE network.  
+I also have keen appetite for many other areas in network/systems. Check my personal insights of some recent works and feel free to leave a message, I would be more than happy to share my thoughts.
 
 Publications
 ======
