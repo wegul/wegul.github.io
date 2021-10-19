@@ -1,8 +1,5 @@
 # main links links
 main:
-  - title: "Reviews"
-    url: /posts/
-
 #  - title: "Publications"
 #    url: /publications/
 
@@ -15,8 +12,8 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
         
-#  - title: "News"
-#    url: /year-archive/
+  - title: "Blogs"
+    url: /year-archive/
 #
 #  - title: "Honors"
 #    url: /cv/
