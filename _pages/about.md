@@ -21,10 +21,10 @@ I have broad interests in network and systems research. Particularly in the foll
 - Security and privacy  
 - Edge computing  
 - Wireless network  
-- Video streaming
+- Video analysis
 
-I combine signal proceesing and machine learning to locate privacy risks on mobile devices. Recently, I am working on video analysis over dynamic LTE network.  
-I also have keen appetite for many other areas in network/systems. Check my personal insights of some recent works and feel free to leave a message, I would be more than happy to share my thoughts.
+I combine signal proceesing and machine learning to locate privacy risks on mobile devices. Recently, I am working on enhancing QoE of video delivery over dynamic LTE network.  
+I also have keen appetite for many other areas in network/systems. Check my [personal insights](https://wegul.github.io/wegul/year-archive/) of some recent works and feel free to leave a message, I would be more than happy to share my thoughts.
 
 Publications
 ======
