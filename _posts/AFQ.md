@@ -1,0 +1,24 @@
+---
+title: 'Review on *Approximating Fair Queueing on Reconfigurable Switches*'
+date: 2021-08-14
+permalink: /posts/AFQ/
+tags:
+  - reviews
+  - congestion control
+  - fair queueing
+---
+**Disclaimer:**  
+There are terms that I am unfamiliar with since the paper sort of lies out side of my current research experience but I will try to explain as clear with plain words:)
+
+Summary
+===
+This paper develops an approximate form of Fair Queueing with reconfigurable switches. 
+
+
+<!-- We leverage configurable perpacket processing and the ability to maintain mutable
+state inside switches to achieve fair bandwidth allocation across all traversing flows. Further, present our
+design for a new dequeuing scheduler, called Rotating
+Strict Priority scheduler that lets us transmit packets from
+multiple queues in approximate sorted order. Our hardware emulation and software simulations on a large leafspine topology show that our scheme closely approximates ideal Fair Queueing, improving the average flow
+completion times for short flows by 2-4x and 99th tail
+latency by 4-8x relative to TCP and DCTCP. -->
