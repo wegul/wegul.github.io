@@ -21,26 +21,25 @@ I have broad interests in network and systems research. Particularly in the foll
 - Security and privacy  
 - Edge computing  
 - Wireless network  
-- Video analysis
+- Internet QoE
 
-I combine signal proceesing and machine learning to locate privacy risks on mobile devices. Recently, I am working on enhancing QoE of video delivery over dynamic LTE network.  
+I combine signal proceesing and machine learning to locate privacy risks on mobile devices. Recently, I am working on enhancing video delivery over wireless network.  
 I also have keen appetite for many other areas in network/systems. Check my [personal insights](https://wegul.github.io/wegul/year-archive/) of some recent works and feel free to leave a message, I would be more than happy to share my thoughts.
 
 Publications
 ======
 *“Towards Device Independent Eavesdropping on Telephone Conversations with Built-in Accelerometer”*  
 **Weigao Su**, Daibo Liu, Taiyuan Zhang, Hongbo Jiang.  
-Ubicomp 2021 (will be published in Issue 4 of IMWUT Vol. 5, December)
+ACM Ubicomp 2021 (will be published in Issue 4 of IMWUT Vol. 5, December)
 
 
-Current Projects
+Current Project
 ======  
 *Optimizing Video Streaming for High-speed Rails*  
--Research on performance of LTE network in high mobility settings  
--Research on current adaptive bitrate streaming strategies  
--Research on TCP congestion control  
--Design a video delivery framework that provides real-time diagnosis to ensure QoE for passengers on HSR
-
+- Modeled TCP measurements in high speed rails to disclose the root cause of network degradation.
+- Researched LTE behavior with worsened channel quality.
+- Revisited current ABR strategies to show the underlying  deficiency.
+- Designed a crowdsourcing-based video delivery framework to ensure QoE for passengers on HSR.
 News  
 ======
 * Oct. 2021: One paper accepted to Ubicomp 2021!  
