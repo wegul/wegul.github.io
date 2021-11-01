@@ -40,6 +40,7 @@ Current Project
 - Researched LTE behavior with worsened channel quality.
 - Revisited current ABR strategies to show the underlying  deficiency.
 - Designed a crowdsourcing-based video delivery framework to ensure QoE for passengers on HSR.
+
 News  
 ======
 * Oct. 2021: One paper accepted to Ubicomp 2021!  
