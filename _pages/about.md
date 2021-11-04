@@ -17,14 +17,14 @@ I am a senior year B.Eng student in the College of Computer Sciences and Electro
 
 Research Interests
 ======
-I have broad interests in network and systems research. Particularly in the following topics:  
+I have broad interests in network and mobile research. Particularly in the following topics:  
 - Security and privacy  
-- Edge computing  
+- Mobile computing  
 - Wireless network  
 - Internet QoE
 
 I combine signal proceesing and machine learning to locate privacy risks on mobile devices. Recently, I am working on enhancing video delivery over wireless network.  
-I also have keen appetite for many other areas in network/systems. Check my [personal insights](https://wegul.github.io/wegul/year-archive/) of some recent works and feel free to leave a message, I would be more than happy to share my thoughts.
+I also have keen appetite for many other areas. Check my [personal insights](https://wegul.github.io/wegul/year-archive/) of some recent works and feel free to leave a message, I would be more than happy to share my thoughts.
 
 Publications
 ======
