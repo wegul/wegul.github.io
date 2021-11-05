@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior year B.Eng student in the College of Computer Sciences and Electronic Engineering at Hunan University, supervised by Prof. [Daibo Liu](https://sites.google.com/site/dbliuuestc/home). This is my [CV](../files/weigaosu_CV.pdf).
+I am a senior year B.Eng student in the College of Computer Sciences and Electronic Engineering at Hunan University, supervised by Prof. [Daibo Liu](https://sites.google.com/site/dbliuuestc/home). This is my [CV](https://github.com/wegul/wegul/raw/main/files/weigaosu_CV.pdf).
 
 *I am actively looking for a Ph.D position starting in 2022 fall. Please drop me a line if you would like to know more about me.*
 
@@ -28,10 +28,9 @@ I also have keen appetite for many other areas. Check my [personal insights](htt
 
 Publications
 ======
-*“Towards Device Independent Eavesdropping on Telephone Conversations with Built-in Accelerometer”*  
+*“Towards Device Independent Eavesdropping on Telephone Conversations with Built-in Accelerometer”*  [PDF](https://github.com/wegul/wegul/raw/main/files/Vibphone_arxiv.pdf)  
 **Weigao Su**, Daibo Liu, Taiyuan Zhang, Hongbo Jiang.  
 ACM Ubicomp 2021 (will be published in Issue 4 of IMWUT Vol. 5, December)
-[PDF](../files/Vibphone_arxiv.pdf)
 
 
 Current Project
