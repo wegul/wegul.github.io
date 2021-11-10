@@ -23,7 +23,6 @@ I have broad interests in network and mobile research. Particularly in the follo
 - Wireless network  
 - Internet QoE
 
-I combine signal proceesing and machine learning to locate privacy risks on mobile devices. Recently, I am working on enhancing video delivery over wireless network.  
 I also have keen appetite for many other areas. Check my [personal insights](https://wegul.github.io/wegul/year-archive/) of some recent works and feel free to leave a message, I would be more than happy to share my thoughts.
 
 Publications
