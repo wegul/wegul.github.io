@@ -58,10 +58,8 @@ Prediction module estimates the future trajectory of the detected obstacles by n
 
 
 
-[^lidar42]:Jonathan Petit, Bas Stottelaar, Michael Feiri, and Frank Kargl. 2015. Remote
-Attacks on Automated Vehicles Sensors: Experiments on Camera and LiDAR. In Black Hat Europe.
-[^lidar44]: Hocheol Shin, Dohyun Kim, Yujin Kwon, and Yongdae Kim. 2017. Illusion and Dazzle: Adversarial Optical Channel Exploits Against Lidars for Automotive Applications. In International Conference on Cryptographic Hardware and Embedded
-Systems (CHES)
+[^lidar42]:Jonathan Petit, Bas Stottelaar, Michael Feiri, and Frank Kargl. 2015. Remote Attacks on Automated Vehicles Sensors: Experiments on Camera and LiDAR. In Black Hat Europe.
+[^lidar44]: Hocheol Shin, Dohyun Kim, Yujin Kwon, and Yongdae Kim. 2017. Illusion and Dazzle: Adversarial Optical Channel Exploits Against Lidars for Automotive Applications. In International Conference on Cryptographic Hardware and Embedded Systems (CHES)
 [^lidar]: Cao, Yulong, et al. "Adversarial sensor attack on lidar-based perception in autonomous driving." Proceedings of the 2019 ACM SIGSAC conference on computer and communications security. 2019.
 [^drp]: Sato, Takami, et al. "Dirty Road Can Attack: Security of Deep Learning based Automated Lane Centering under Physical-World Attack." Proceedings of the 29th USENIX Security Symposium (USENIX Security'21). 2021.
 [^fusion]: Cao*, Yulong, Ningfei Wang*, Chaowei Xiao*, Dawei Yang*, Jin Fang, Ruigang Yang, Qi Alfred Chen, Mingyan Liu, and Bo Li. 2021\. “Invisible for Both Camera and LiDAR: Security of Multi-Sensor Fusion Based Perception in Autonomous Driving Under Physical-World Attacks.” *2021 IEEE Symposium on Security and Privacy (SP)*, May, 176–94\.
