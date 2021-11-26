@@ -11,16 +11,15 @@ tags:
 
 Background
 ===
-People have started to take autonomous vehicles to trials and are moving towards the plan for larger deployment. However, security is an important consideration. There has been an increasing interest in the attacks and defences as ADs are getting ready for roads. In this post, I am to organize and discuss several methods of sensor attack and propose some areas that have yet to be discovered.
+People have started taking autonomous vehicles to trials and moving towards the plan for larger deployment. However, security is an important consideration. There has been an increasing interest in the attacks and defences as ADs are getting ready for roads. Though many attacks make AD produce wrong decisions, sensor attack is the most direct and easy-to-deploy threat. In this post, I am to organize and discuss several methods of sensor attack and propose some areas that have yet to be discovered.
 
 
 Sensor Attack
 ===
 ### Motivation
-Roughly, AV action is determined by the workflow: Perception+Localization->Prediction->Planning->Control. Among these, I think Perception+Localization->Prediction could be seen as the soft point. Because on the one hand, Perception and Localization highly rely on information gained in real-time, which could be deceiving.
-Prediction is data-driven
+Roughly, AV action is determined by the workflow: Perception+Localization->Prediction->Planning->Control. Among these, I think Perception+Localization->Prediction could be seen as the soft point. Because data-driven Perception and Localization highly rely potentially deceiving information gained in real-time. 
 
- Below I first introduce the three modules before illustrating their vulnerabilities respectively.
+ Below I first introduce the three modules before illustrating their vulnerabilities.
 
 **Perception:** processes LiDAR, camera, and radar inputs to detect obstacles. Usually multiple object detection is adopted to avoid false detection.
 
@@ -33,14 +32,14 @@ Intuitively, to cause impactful security consequence, the attack goal is usually
 
 Generally, the spoofing model can be head-to-head (attacker in proximity) or an ambush (deceiving obstacle). For the first one, Shin et al. [^lidar44] deploy a relay attack to achieve spoofing that induces illusion (saturation). Prior to this, Petit et al [^black] first injected fake dots to form a virtual wall but with farther distance. However, these attacks are disabled by ML models. Cao et al[^lidar] explored an optimization method to inject faked laser (perturbation) to the victim LiDAR. 
 
-More recently, researchers have come up with an ambush attack. Sato et al. proposed a new model that attackers should only modify the road surface to make the target car deviate from its current route[^drp] (lateral deviation). This method utilized vehicle motion model and perspective transformation to cast lasting impact on the steering control, i.e., influencing a series of frames. Quite like [^lidar], they set out from the designer's perspective to reveal the security threat by figuring out the lane-bending objective function. Again, a multi-sensor fusion attack (camera+LiDAR) was proposed with the same principle, which makes the vehicle ignores an apparent obstacle. This attack is achievable because it optimizes the obstacle's texture to make it "look like" part of the road surface in both LiDAR and camera (attack vector fusion).
+More recently, researchers have come up with an ambush attack (physical attack vector). Sato et al. proposed a new model that attackers should only modify the road surface to make the target car deviate from its current route[^drp] (lateral deviation). This method utilized vehicle motion model and perspective transformation to cast lasting impact on the steering control, i.e., influencing a series of frames. Quite like [^lidar], they set out from the designer's perspective to reveal the security threat by figuring out the lane-bending objective function. Likewise, a multi-sensor fusion attack (camera+LiDAR) was proposed with the same principle, which makes the vehicle ignores an apparent obstacle. This attack is achievable because it optimizes the obstacle's texture to make it "look like" part of the road surface in both LiDAR and camera (attack vector fusion).
 
 
 
 ### Discussion
-1. The reverse-engineering idea in [^lidar] [^drp] and [^fusion] is brilliant and maybe it can scale to attack on localization module. For example, cheat the LiDAR-based localization to render drift.
+1. The physical attack vector idea is brilliant and made feasible by the overfitting nature of DNN. However, one of the shortcomings is that operation logic (after perception), e.g., curve parameter and $\theta$ of DNN  in DRP, MSF in Fusion Attack, is still required for iterative optimization. However, most manufacturers might have different logic, which might lead to terrible transferability. What if we can scale it to attack on localization module? To my knowledge, LiDAR-based localization algorithms are not that different among brands. For example, if we can cheat the LiDAR-based localization to render drift, we can have similar attack result. 
 
-2. Stationary obstacle is less impactful to the planning module than moving objects. I think via the same optimization framework, attackers can also mimic walking pedestrian (VRU)'s echo. 
+2. Stationary obstacle is less impactful to the planning module than moving objects. The LiDAR spoofing gave me an idea that maybe moving objects can also be mimicked. I think via the same optimization framework, attackers can also mirror walking pedestrian (VRU)'s echo. However, I consider this type of man-in-the-middle attack fails in some certain situations. For example, beam of a specific LiDAR is unique.
 
 Other Threats
 ===
@@ -54,8 +53,7 @@ This could threaten both driver and VRU. For the VRU, the sensors are oversensin
 ### How about Prediction module? -DL Backdoor Attack
 Backdoor attack on image and speech recognition had been a heated topic[^target]. However, no one has yet taken it as an attack vector for AD. 
 
-Prediction module estimates the future trajectory of the detected obstacles by neural networks (e.g., RNNs). What if the training set is contaminated? Wenger et al. have considered backdoor attacks in real physical world[^backdoor]. This threat could be a serious issue if trigger is carefully designed to escape tests.
-Challenges could be:  1. attackers might have no access to themodel and the training set used by the victim system; 2. only a small amount of poisoning samples are allowed; 3. the trigger is hard to notice; etc.
+Prediction module estimates the future trajectory of the detected obstacles by neural networks (e.g., RNNs). What if the training set is contaminated? Wenger et al. have considered backdoor attacks in real physical world[^backdoor]. This threat could be a serious issue if trigger is carefully designed to escape tests. Unlike aforementioned "invisible obstacle", this threat is stealthier as attackers don't even have to make up something that might be suspicious. Nevertheless, challenges could be:  1. attackers might have no access to the model and the training set used by the victim system; 2. only a small amount of poisoning samples are allowed; 3. the trigger is hard to notice; etc.
 
 
 
