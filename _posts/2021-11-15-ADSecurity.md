@@ -1,5 +1,5 @@
 ---
-title: 'Review on AD Sensor Attack (unfinished)'
+title: 'Review on AD Sensor Attack'
 date: 2021-11-15
 permalink: /posts/2021/11/Security/
 tags:
