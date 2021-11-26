@@ -47,7 +47,7 @@ Upon summarizing sensor attack on driver's security, I found other aspects inter
 
 
 ### Privacy Leakage
-This could threaten both driver and VRU. For the VRU, the sensors are oversensing their behaviors, especially when mmWave can do voice analysis. For the driver, the emitted signal potentially sell out their location. 
+This could threaten both driver and VRU. For the VRU, the sensors are oversensing their behaviors. For example, WaveSpy [^wavespy] can achieve through-wall screen reading via mmWave, let along those eavesdropping attacks. On the flipside, the drivers are not spared. The emitted signal can potentially sell out their location but I haven't seen anyone done this yet. 
 
 
 ### How about Prediction module? -DL Backdoor Attack
@@ -66,6 +66,7 @@ Prediction module estimates the future trajectory of the detected obstacles by n
 [^black]: Petit, Jonathan, et al. "Remote attacks on automated vehicles sensors: Experiments on camera and lidar." Black Hat Europe 11.2015 (2015): 995.
 [^towards_secure]: Sun, Jiachen, Yulong Cao, Qi Alfred Chen, and Z. Morley Mao. 2020\. “Towards Robust LiDAR-Based Perception in Autonomous Driving: General Black-Box Adversarial Sensor Attack and Countermeasures.” *ArXiv:2006.16974 [Cs]*, June. 
 [^comprehensive]: Garcia, Joshua, Yang Feng, Junjie Shen, Sumaya Almanee, Yuan Xia, and and Qi Alfred Chen. 2020\. “A Comprehensive Study of Autonomous Vehicle Bugs.” In *Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering*, 385–96\. Seoul South Korea: ACM. 
+[^wavespy]: Li, Zhengxiong, et al. "Wavespy: Remote and through-wall screen attack via mmwave sensing." 2020 IEEE Symposium on Security and Privacy (SP). IEEE, 2020.
 [^backdoor]:Yao, Yuanshun, et al. "Latent backdoor attacks on deep neural networks." Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security. 2019.
 [^target]: Chen X, Liu C, Li B, et al. Targeted backdoor attacks on deep learning systems using data poisoning[J]. arXiv preprint arXiv:1712.05526, 2017.
 
