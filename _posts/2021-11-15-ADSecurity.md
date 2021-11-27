@@ -27,7 +27,7 @@ Roughly, AD action is determined by the workflow: Perception+Localization->Predi
 **Prediction**: estimates the future trajectory of the detected obstacles. Neural networks (e.g., MLPs and RNNs) are commonly used to evaluate the probabilities of the possible trajectories.
 
 
-#Attack on Sensors
+# Attack on Sensors
 Though many attacks make AD produce wrong decisions, sensor attack is the most direct and easy-to-deploy threat. In this section, I am to organize and discuss several methods of sensor attack and propose some areas that have yet to be discovered.
 
 ### Methodology
@@ -46,7 +46,7 @@ More recently, researchers have come up with an ambush attack (physical attack v
 Other Threats
 ===
 Upon summarizing sensor attack on driver's security, I found other aspects interesting.
-###Attack on GPS
+### Attack on GPS
 This is an old topic born far before AV. GPS is facing two threats, jamming and spoofing. Specifically, spoofing is more technical. It falls into two types, relay type and generating type. The former records actual signals from satellites and transmits to the target. The latter generates GPS signals according to real signals via certain programs. Generated signals cannot be distinguished as encryption algorithm and the test matrix algorithm. He et al.[^uav] gave an experiment of GPS spoofing. They input fake location via a program to generate fake signals and then broadcast with USRP, invalidating GPS functions. Thus, an attacker can control a car as he wants with the above technology.
 
 ### Attack on Prediction module-DL Backdoor Attack
