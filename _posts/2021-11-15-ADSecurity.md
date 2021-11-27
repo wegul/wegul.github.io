@@ -1,5 +1,5 @@
 ---
-title: 'Review on AD Sensor Attack'
+title: 'Attacks against AD Security'
 date: 2021-11-15
 permalink: /posts/2021/11/Security/
 tags:
@@ -49,7 +49,7 @@ Upon summarizing sensor attack on driver's security, I found other aspects inter
 ###Attack on GPS
 This is an old topic born far before AV. GPS is facing two threats, jamming and spoofing. Specifically, spoofing is more technical. It falls into two types, relay type and generating type. The former records actual signals from satellites and transmits to the target. The latter generates GPS signals according to real signals via certain programs. Generated signals cannot be distinguished as encryption algorithm and the test matrix algorithm. He et al.[^uav] gave an experiment of GPS spoofing. They input fake location via a program to generate fake signals and then broadcast with USRP, invalidating GPS functions. Thus, an attacker can control a car as he wants with the above technology.
 
-###Attack on Prediction module-DL Backdoor Attack
+### Attack on Prediction module-DL Backdoor Attack
 Backdoor attack on image and speech recognition had been a heated topic[^target]. However, no one has yet taken it as an attack vector for AD. 
 
 Prediction module estimates the future trajectory of the detected obstacles by neural networks (e.g., RNNs). What if the training set is contaminated? Wenger et al. have considered backdoor attacks in real physical world[^backdoor]. This threat could be a serious issue if trigger is carefully designed to escape tests. Unlike aforementioned "invisible obstacle", this threat is stealthier as attackers don't even have to make up something that might be suspicious. For another, as inputs for Prediction have no visual characteristics, it could be harder to detect without knowing planning decision consequences. 
