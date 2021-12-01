@@ -30,14 +30,14 @@ Roughly, AD action is determined by the workflow: Perception+Localization->Predi
 # Attack on Sensors
 Though many attacks make AD produce wrong decisions, sensor attack is the most direct and easy-to-deploy threat. In this section, I am to organize and discuss several methods of sensor attack and propose some areas that have yet to be discovered.
 
-### Methodology
+## Methodology
 Intuitively, to cause impactful security consequence, the attack goal is usually set as fooling the one or multiple sensors into perceiving fake obstacles in front of a victim AD in order to maliciously alter its driving decisions (Prediction). Therefore, a spoofing model is considered [^lidar42] [^lidar44]. 
 
 Generally, the spoofing model can be head-to-head (attacker in proximity) or an ambush (deceiving obstacle). For the first one, Shin et al. [^lidar44] deploy a relay attack to achieve spoofing that induces illusion (saturation). Prior to this, Petit et al [^black] first injected fake dots to form a virtual wall but with farther distance. However, these attacks are disabled by ML models. Cao et al[^lidar] explored an optimization method to inject faked laser (perturbation) to the victim LiDAR. 
 
 More recently, researchers have come up with an ambush attack (physical attack vector). Sato et al. proposed a new model that attackers should only modify the road surface to make the target car deviate from its current route[^drp] (lateral deviation). This method utilized vehicle motion model and perspective transformation to cast lasting impact on the steering control, i.e., influencing a series of frames. Quite like [^lidar], they set out from the designer's perspective to reveal the security threat by figuring out the lane-bending objective function. Likewise, a multi-sensor fusion attack (camera+LiDAR) was proposed with the same principle, which makes the vehicle ignores an apparent obstacle. This attack is achievable because it optimizes the obstacle's texture to make it "look like" part of the road surface in both LiDAR and camera (attack vector fusion).
 
-### Discussion
+## Discussion
 1. The physical attack vector idea is brilliant and made feasible by the overfitting nature of DNN. But one of the shortcomings is that operation logic (after perception), e.g., curve parameters in DRP and MSF in Fusion Attack, is still required for iterative optimization. Most manufacturers might have different logic, which might lead to terrible transferability. What if we can scale it to attack on **localization module**?  Though LiDAR spoofing is discussed in perception module, researchers have limited projects done involved with localization. In [^opt], researchers propose a way of interrupting LiDAR localization. However, it is highly feasible that we can fool the localization module into a different map. For example, creating a few meters of drift to force the car make a turn to the wrong block. Nonetheless, there are multiple challenges and maybe the deployment cost is unaffordable...
 
 2. Stationary obstacle is less impactful to the planning module than moving objects. The LiDAR spoofing gave me an idea that maybe moving objects can also be mimicked. I think via the same optimization framework, attackers can also mirror walking pedestrian (VRU)'s echo. However, I consider this type of man-in-the-middle attack fails in some certain situations. For example, beam of a specific LiDAR is unique.
@@ -46,17 +46,17 @@ More recently, researchers have come up with an ambush attack (physical attack v
 Other Threats
 ===
 Upon summarizing sensor attack on driver's security, I found other aspects interesting.
-### Attack on GPS
+## Attack on GPS
 This is an old topic born far before AV. GPS is facing two threats, jamming and spoofing. Specifically, spoofing is more technical. It falls into two types, relay type and generating type. The former records actual signals from satellites and transmits to the target. The latter generates GPS signals according to real signals via certain programs. Generated signals cannot be distinguished as encryption algorithm and the test matrix algorithm. He et al.[^uav] gave an experiment of GPS spoofing. They input fake location via a program to generate fake signals and then broadcast with USRP, invalidating GPS functions. Thus, an attacker can control a car as he wants with the above technology.
 
-### Attack on Prediction module-DL Backdoor Attack
+## Attack on Prediction module-DL Backdoor Attack
 Backdoor attack on image and speech recognition had been a heated topic[^target]. However, no one has yet taken it as an attack vector for AD. 
 
 Prediction module estimates the future trajectory of the detected obstacles by neural networks (e.g., RNNs). What if the training set is contaminated? Wenger et al. have considered backdoor attacks in real physical world[^backdoor]. This threat could be a serious issue if trigger is carefully designed to escape tests. Unlike aforementioned "invisible obstacle", this threat is stealthier as attackers don't even have to make up something that might be suspicious. For another, as inputs for Prediction have no visual characteristics, it could be harder to detect without knowing planning decision consequences. 
 
 Nevertheless, challenges could be:  1. attackers might have no access to the model and the training set used by the victim system; 2. only a small amount of poisoning samples are allowed and 3. Planning unit is transparent, etc.
 
-### Privacy Leakage
+## Privacy Leakage
 Privacy is a serious problem all the time. How to protect everyone's privacy is important. It could threaten both driver and VRU. For the VRU, the sensors are oversensing their behaviors. For example, cars could go in the restricted area and secretly photographing privacy of legal residents. Besides the common camera case, it is more concerning that there are stealthier ones. For example, WaveSpy [^wavespy] can achieve through-wall screen reading via mmWave, not to mention those eavesdropping attacks with mmWave. 
 
 On the flipside, the drivers are not spared. With Internet access, cars can share information with service providers in the cloud,  from which we can get to the classic debate on permission models[^spy]. Furthermore, the emitted signal can potentially sell out their location...
