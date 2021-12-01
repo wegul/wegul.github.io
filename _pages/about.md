@@ -30,7 +30,7 @@ Publications
 ======
 *“Towards Device Independent Eavesdropping on Telephone Conversations with Built-in Accelerometer”*  [PDF](https://github.com/wegul/wegul/raw/main/files/Vibphone_arxiv.pdf)  
 **Weigao Su**, Daibo Liu, Taiyuan Zhang, Hongbo Jiang.  
-ACM Ubicomp 2021 (will be published in Issue 4 of IMWUT Vol. 5, December)
+Proceedings of the ACM on IMWUT 5.4, 2021.
 
 
 Current Project
