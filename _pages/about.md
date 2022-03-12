@@ -11,7 +11,7 @@ redirect_from:
 I am a senior year B.Eng student in the College of Computer Sciences and Electronic Engineering at Hunan University, supervised by Prof. [Daibo Liu](https://sites.google.com/site/dbliuuestc/home). 
 <!-- This is my [CV](https://github.com/wegul/wegul/raw/main/files/weigaosu_CV.pdf). -->
 
-*I am actively looking for a Ph.D position starting in 2022 fall. Please drop me a line if you would like to know more about me.*
+*I will join Purdue for Ph.D. study. Please drop me a line if you would like to know more about me.*
 
 
 
