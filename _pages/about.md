@@ -11,17 +11,16 @@ redirect_from:
 I am a senior year B.Eng student in the College of Computer Sciences and Electronic Engineering at Hunan University, supervised by Prof. [Daibo Liu](https://sites.google.com/site/dbliuuestc/home). 
 <!-- This is my [CV](https://github.com/wegul/wegul/raw/main/files/weigaosu_CV.pdf). -->
 
-*I will join Purdue University in 2022Fall for Ph.D. study. Go Boilers!!!*
+*I will join Purdue University in 2022Fall for Ph.D. study. Boiler Up!!!*
 
 
 
 
 Research Interests
 ======
-I have broad interests in network and mobile research. Particularly in the following topics:  
-- Security and privacy  
-- Mobile computing  
-- Wireless network  
+I have broad interests in network and mobile research. Particularly in the following topics:   
+- Mobile network  
+- Network security  
 - Internet QoE
 
 I also have keen appetite for many other areas. Check my [personal insights](https://wegul.github.io/wegul/year-archive/) of some recent works and feel free to leave a message, I would be more than happy to share my thoughts.
