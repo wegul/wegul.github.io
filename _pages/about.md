@@ -42,6 +42,7 @@ Current Project
 
 News  
 ======
+* Mar. 2022: I will join PurdueCS as a Ph.D. student!  
 * Oct. 2021: One paper accepted to Ubicomp 2021!  
 * Aug. 2021: I received a second prize in [National College Student Information Security Contest](http://www.ciscn.cn/)!  
 * Sept. 2020: Our team won multiple national prizes in [RoboMaster 2020](https://www.robomaster.com/en-US/robo/overview?djifrom=nav)!
