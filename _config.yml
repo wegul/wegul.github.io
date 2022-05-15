@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Weigao Su"
-description              : &description "B.Eng @ HNU CSEE"
+description              : &description "Ph.D. student @ Purdue CS"
 url                      : https://wegul.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               :
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Weigao Su"
   avatar           : "selfie.jpg"
-  bio              : "B.Eng @ HNU CSEE"
-  location         : "Changsha, China"
+  bio              : "Ph.D. student @ Purdue CS"
+  location         : "West Lafayette, IN"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "weigaosu at hnu dot edu dot cn"
+  email            : "su312 at purdue dot edu"
   researchgate     :
   uri              :
   bitbucket        :
