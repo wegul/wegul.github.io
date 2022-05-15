@@ -44,7 +44,8 @@ News
 ======
 * Mar. 2022: I will join PurdueCS as a Ph.D. student!  
 * Oct. 2021: One paper accepted to Ubicomp 2021!  
-<!-- * Aug. 2021: I received a second prize in [National College Student Information Security Contest](http://www.ciscn.cn/)!  
-* Sept. 2020: Our team won multiple national prizes in [RoboMaster 2020](https://www.robomaster.com/en-US/robo/overview?djifrom=nav)!
-* Jul. 2020: I joined Networking and Smarting Sensing Systems research group as a research assistant.
-* Dec. 2019: I won a provincial outstanding winner and a national second prize in [FILTRP Public Speaking Contest](https://uchallenge.unipus.cn/2021/news/)! -->
+
+<!-- * Aug. 2021: I received a second prize in [National College Student Information Security Contest](http://www.ciscn.cn/)!   -->
+<!-- * Sept. 2020: Our team won multiple national prizes in [RoboMaster 2020](https://www.robomaster.com/en-US/robo/overview?djifrom=nav)! -->
+<!-- * Jul. 2020: I joined Networking and Smarting Sensing Systems research group as a research assistant. -->
+<!-- * Dec. 2019: I won a provincial outstanding winner and a national second prize in [FILTRP Public Speaking Contest](https://uchallenge.unipus.cn/2021/news/)! -->
