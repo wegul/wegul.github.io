@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an incoming Ph.D. student at Purdue University, advised by Prof. [Chunyi Peng](https://www.cs.purdue.edu/homes/chunyi/). Previously, I received my bachelor’s degree from Hunan University, where I worked closely with Prof. [Daibo Liu](https://sites.google.com/site/dbliuuestc/home). 
+Hi! I am a first-year Ph.D. student at Purdue University, advised by Prof. [Chunyi Peng](https://www.cs.purdue.edu/homes/chunyi/). Previously, I received my bachelor’s degree from Hunan University, where I worked closely with Prof. [Daibo Liu](https://sites.google.com/site/dbliuuestc/home). 
 <!-- This is my [CV](https://github.com/wegul/wegul/raw/main/files/weigaosu_CV.pdf). -->
 
 <!-- *I will join Purdue University in 2022Fall for Ph.D. study. Boiler Up!!!* -->
