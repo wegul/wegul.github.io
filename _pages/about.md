@@ -40,6 +40,10 @@ Proceedings of the ACM on IMWUT 5.4, 2021.
 - Revisited current ABR strategies to show the underlying  deficiency.
 - Designed a crowdsourcing-based video delivery framework to ensure QoE for passengers on HSR. -->
 
+Teaching
+=========
+CS 240: C Programming -- Teaching Assistant, Fall 2022
+
 News  
 ======
 * Mar. 2022: I will join PurdueCS as a Ph.D. student!  
