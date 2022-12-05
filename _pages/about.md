@@ -27,7 +27,7 @@ I have broad interests in network and mobile research. Particularly in the follo
 
 Publications
 ======
-*“Towards Device Independent Eavesdropping on Telephone Conversations with Built-in Accelerometer”*  [PDF](https://github.com/wegul/wegul/raw/main/files/Vibphone_arxiv.pdf)  
+*“Towards Device Independent Eavesdropping on Telephone Conversations with Built-in Accelerometer”*  [PDF](https://dl.acm.org/doi/abs/10.1145/3494969)  
 **Weigao Su**, Daibo Liu, Taiyuan Zhang, Hongbo Jiang.  
 Proceedings of the ACM on IMWUT 5.4, 2021.
 
@@ -43,6 +43,7 @@ Proceedings of the ACM on IMWUT 5.4, 2021.
 Teaching
 =========
 CS 240: C Programming -- Teaching Assistant, Fall 2022
+CS 536: Data Communication And Computer Networkss -- Teaching Assistant, Spring 2023 (Pending)
 
 News  
 ======
