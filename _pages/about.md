@@ -42,8 +42,9 @@ Proceedings of the ACM on IMWUT 5.4, 2021.
 
 Teaching
 =========
-CS 240: C Programming -- Teaching Assistant, Fall 2022
-CS 536: Data Communication And Computer Networkss -- Teaching Assistant, Spring 2023 (Pending)
+CS 240: C Programming -- Teaching Assistant, Fall 2022.
+
+CS 536: Data Communication And Computer Networkss -- Teaching Assistant, Spring 2023 (Pending).
 
 News  
 ======
