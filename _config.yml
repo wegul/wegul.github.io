@@ -86,7 +86,7 @@ author:
   location         : "West Lafayette, IN"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com.hk/citations?user=YpBhfGsAAAAJ&hl=en"
   email            : "su312 at purdue dot edu"
   researchgate     :
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "wegul794"
+  twitter          :
   vine             :
   weibo            :
   xing             :
