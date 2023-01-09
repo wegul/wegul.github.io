@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a first-year Ph.D. student at Purdue University, advised by Prof. [Chunyi Peng](https://www.cs.purdue.edu/homes/chunyi/). Previously, I received my bachelor’s degree from Hunan University, where I worked closely with Prof. [Daibo Liu](https://sites.google.com/site/dbliuuestc/home). 
+Hi! I am a first-year Ph.D. student at Purdue University, advised by Prof. [Vishal Shrivastav](https://web.ics.purdue.edu/~vshriva/).
+<!-- and co-advised by Prof. [Chunyi Peng](https://www.cs.purdue.edu/homes/chunyi/).  -->
+Previously, I received my bachelor’s degree from Hunan University, where I worked closely with Prof. [Daibo Liu](https://sites.google.com/site/dbliuuestc/home). 
 <!-- This is my [CV](https://github.com/wegul/wegul/raw/main/files/weigaosu_CV.pdf). -->
 
 <!-- *I will join Purdue University in 2022Fall for Ph.D. study. Boiler Up!!!* -->
@@ -18,10 +20,10 @@ Hi! I am a first-year Ph.D. student at Purdue University, advised by Prof. [Chun
 
 Research Interests
 ======
-I have broad interests in network and mobile research. Particularly in the following topics:   
-- Mobile network  
+I have broad interests in computer networks. Particularly in the following topics:   
+- Programmable hardwares  
+- In-network computing
 - Network security  
-- Internet QoE
 
 <!-- I also have keen appetite for many other areas. Check my [personal insights](https://wegul.github.io/wegul/year-archive/) of some recent works and feel free to leave a message, I would be more than happy to share my thoughts. -->
 
@@ -44,7 +46,7 @@ Teaching
 =========
 CS 240: C Programming -- Teaching Assistant, Fall 2022.
 
-CS 536: Data Communication And Computer Networkss -- Teaching Assistant, Spring 2023 (Pending).
+<!-- CS 536: Data Communication And Computer Networkss -- Teaching Assistant, Spring 2023 (Pending). -->
 
 News  
 ======
