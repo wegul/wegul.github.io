@@ -42,6 +42,11 @@ Proceedings of the ACM on IMWUT 5.4, 2021.
 - Revisited current ABR strategies to show the underlying  deficiency.
 - Designed a crowdsourcing-based video delivery framework to ensure QoE for passengers on HSR. -->
 
+Service
+=======
+*Reviewer:* Ubicomp 22'
+
+
 Teaching
 =========
 CS 240: C Programming -- Teaching Assistant, Fall 2022.
@@ -49,9 +54,6 @@ CS 240: C Programming -- Teaching Assistant, Fall 2022.
 <!-- CS 536: Data Communication And Computer Networkss -- Teaching Assistant, Spring 2023 (Pending). -->
 
 
-Service
-=======
-*Reviewer:* Ubicomp/IMWUT 22'
 
 News  
 ======
