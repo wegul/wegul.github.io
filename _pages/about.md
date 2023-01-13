@@ -51,7 +51,7 @@ CS 240: C Programming -- Teaching Assistant, Fall 2022.
 
 Service
 =======
-**Reviewer:** Ubicomp/IMWUT 22'
+*Reviewer:* Ubicomp/IMWUT 22'
 
 News  
 ======
