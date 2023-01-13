@@ -49,9 +49,9 @@ CS 240: C Programming -- Teaching Assistant, Fall 2022.
 <!-- CS 536: Data Communication And Computer Networkss -- Teaching Assistant, Spring 2023 (Pending). -->
 
 
-Services
+Service
 =======
-Reviewer: Ubicomp/IMWUT 22'
+**Reviewer:** Ubicomp/IMWUT 22'
 
 News  
 ======
