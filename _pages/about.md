@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a first-year Ph.D. student in Department of Computer Science at Purdue University. I am very fortunate to be advised by Prof. [Vishal Shrivastav](https://web.ics.purdue.edu/~vshriva/) and [Chunyi Peng](https://www.cs.purdue.edu/homes/chunyi/) at [PurNet Lab](https://gitlab.com/purnet-lab/purnet-lab.gitlab.io/-/wikis/home).
-Previously, I obtained my bachelor degree in Computer Science from Hunan University, where I spent two wonderful years working with Prof. [Daibo Liu](https://sites.google.com/site/dbliuuestc/). 
+Previously, I obtained my bachelor's degree in Computer Science from Hunan University, where I spent two wonderful years working with Prof. [Daibo Liu](https://sites.google.com/site/dbliuuestc/). 
 <!-- This is my [CV](https://github.com/wegul/wegul/raw/main/files/weigaosu_CV.pdf). -->
 
 <!-- *I will join Purdue University in 2022Fall for Ph.D. study. Boiler Up!!!* -->
