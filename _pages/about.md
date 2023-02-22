@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a first-year Ph.D. student at Purdue University, advised by Prof. [Vishal Shrivastav](https://web.ics.purdue.edu/~vshriva/).
-<!-- and co-advised by Prof. [Chunyi Peng](https://www.cs.purdue.edu/homes/chunyi/).  -->
-Previously, I received my bachelor’s degree from Hunan University, where I worked closely with Prof. [Daibo Liu](https://sites.google.com/site/dbliuuestc/). 
+I am a first-year Ph.D. student in Department of Computer Science at Purdue University. I am very fortunate to be advised by Prof. [Vishal Shrivastav](https://web.ics.purdue.edu/~vshriva/) and [Chunyi Peng](https://www.cs.purdue.edu/homes/chunyi/) at [PurNet Lab](https://gitlab.com/purnet-lab/purnet-lab.gitlab.io/-/wikis/home).
+Previously, I obtained my B.S. degree in Computer Science from Hunan University, where I spent two wonderful years working with Prof. [Daibo Liu](https://sites.google.com/site/dbliuuestc/). 
 <!-- This is my [CV](https://github.com/wegul/wegul/raw/main/files/weigaosu_CV.pdf). -->
 
 <!-- *I will join Purdue University in 2022Fall for Ph.D. study. Boiler Up!!!* -->
@@ -25,6 +24,7 @@ I have broad interests in computer networks. Particularly in the following topic
 - In-network computing
 - Network security  
 
+Please feel free to contact me if 
 <!-- I also have keen appetite for many other areas. Check my [personal insights](https://wegul.github.io/wegul/year-archive/) of some recent works and feel free to leave a message, I would be more than happy to share my thoughts. -->
 
 Publications
@@ -59,8 +59,3 @@ News
 ======
 * Mar. 2022: I will join PurdueCS as a Ph.D. student!  
 * Oct. 2021: One paper accepted to Ubicomp 2021!  
-
-<!-- * Aug. 2021: I received a second prize in [National College Student Information Security Contest](http://www.ciscn.cn/)!   -->
-<!-- * Sept. 2020: Our team won multiple national prizes in [RoboMaster 2020](https://www.robomaster.com/en-US/robo/overview?djifrom=nav)! -->
-<!-- * Jul. 2020: I joined Networking and Smarting Sensing Systems research group as a research assistant. -->
-<!-- * Dec. 2019: I won a provincial outstanding winner and a national second prize in [FILTRP Public Speaking Contest](https://uchallenge.unipus.cn/2021/news/)! -->
