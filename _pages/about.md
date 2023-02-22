@@ -24,7 +24,6 @@ I have broad interests in computer networks. Particularly in the following topic
 - In-network computing
 - Network security  
 
-Please feel free to contact me if 
 <!-- I also have keen appetite for many other areas. Check my [personal insights](https://wegul.github.io/wegul/year-archive/) of some recent works and feel free to leave a message, I would be more than happy to share my thoughts. -->
 
 Publications
