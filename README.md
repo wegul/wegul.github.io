@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wegul. Check my [homepage](https://wegul.github.io/)
+- 👋 Hi, I’m @wegul. Check out my [homepage](https://wegul.github.io/)
 
 
 <!---
