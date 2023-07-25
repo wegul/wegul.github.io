@@ -43,7 +43,8 @@ Proceedings of the ACM on IMWUT 5.4, 2021.
 
 Service
 =======
-*Reviewer:* Ubicomp 22'
+*AEC member:* SOSP 23'  
+*Reviewer:* Ubicomp 22'  
 
 
 Teaching
@@ -55,6 +56,7 @@ CS 240: C Programming -- Teaching Assistant, Fall 2022.
 
 News  
 ======
+* Jul. 2023: Glad to participate in artifact evaluation of SOSP 2023!
 * Apr. 2023: See y'all at NSDI'23~
 * Mar. 2022: I will join PurdueCS as a Ph.D. student!
 * Oct. 2021: One paper accepted to Ubicomp 2021!  
