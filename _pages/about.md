@@ -58,5 +58,5 @@ News
 ======
 * Jul. 2023: Glad to participate in artifact evaluation of SOSP 2023!
 * Apr. 2023: See y'all at NSDI'23~
-* Mar. 2022: I will join PurdueCS as a Ph.D. student!
-* Oct. 2021: One paper accepted to Ubicomp 2021!  
+<!--* Mar. 2022: I will join PurdueCS as a Ph.D. student!
+* Oct. 2021: One paper accepted to Ubicomp 2021!   -->
