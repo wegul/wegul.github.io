@@ -56,6 +56,7 @@ CS 240: C Programming -- Teaching Assistant, Fall 2022.
 
 News  
 ======
+* Aug. 2023: Received SIGCOMM'23 Travel Grant. Cant wait to visit NYC!
 * Jul. 2023: Glad to participate in artifact evaluation of SOSP 2023!
 * Apr. 2023: See y'all at NSDI'23~
 
