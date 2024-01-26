@@ -47,19 +47,21 @@ Service
 *Reviewer:* Ubicomp 22'  
 
 
+
+News  
+======
+* Jan. 2024: EDM poster accepted to FAST'24.
+* Aug. 2023: Received SIGCOMM'23 Travel Grant. Cant wait to visit NYC!
+* Jul. 2023: Glad to participate in artifact evaluation of SOSP 2023!
+* Apr. 2023: Will attend NSDI'23!
+
+  
+<!--* Mar. 2022: I will join PurdueCS as a Ph.D. student!-->
+<!--* Oct. 2021: One paper accepted to Ubicomp 2021!   -->
+
 Teaching
 =========
 CS 240: C Programming -- Teaching Assistant, Fall 2022.
 
 <!-- CS 536: Data Communication And Computer Networkss -- Teaching Assistant, Spring 2023 (Pending). -->
 
-
-News  
-======
-* Aug. 2023: Received SIGCOMM'23 Travel Grant. Cant wait to visit NYC!
-* Jul. 2023: Glad to participate in artifact evaluation of SOSP 2023!
-* Apr. 2023: See y'all at NSDI'23~
-
-  
-<!--* Mar. 2022: I will join PurdueCS as a Ph.D. student!-->
-<!--* Oct. 2021: One paper accepted to Ubicomp 2021!   -->
