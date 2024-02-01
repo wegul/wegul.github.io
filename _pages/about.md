@@ -50,10 +50,10 @@ Service
 
 News  
 ======
-* Jan. 2024: EDM poster accepted to FAST'24.
+* Jan. 2024: EDM poster accepted to FAST'24. See y'all at Santa Clara!
 * Aug. 2023: Received SIGCOMM'23 Travel Grant. Cant wait to visit NYC!
 * Jul. 2023: Glad to participate in artifact evaluation of SOSP 2023!
-* Apr. 2023: Will attend NSDI'23!
+* Apr. 2023: Will attend NSDI'23 in Boston!
 
   
 <!--* Mar. 2022: I will join PurdueCS as a Ph.D. student!-->
