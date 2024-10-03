@@ -10,8 +10,8 @@ redirect_from:
 
 I am a third-year Ph.D. student in Department of Computer Science at Purdue University. I am very fortunate to be advised by Prof. [Vishal Shrivastav](https://web.ics.purdue.edu/~vshriva/) and [Sonia Fahmy](https://www.cs.purdue.edu/homes/fahmy/) at [PurNet Lab](https://gitlab.com/purnet-lab/purnet-lab.gitlab.io/-/wikis/home).
 Previously, I obtained my bachelor's degree in Computer Science from Hunan University, where I spent two wonderful years working with Prof. [Daibo Liu](https://sites.google.com/site/dbliuuestc/). 
-
-> **I am currently looking for an internship for summer 2025. Recruiters, please drop me a line!**
+Here is my [CV](https://wegul.github.io/files/weigaoCV-10_2024.pdf).
+> **I am currently looking for an internship in Summer 2025. Recruiters, please drop a line!**
     
 <!-- This is my [CV](https://github.com/wegul/wegul/raw/main/files/weigaosu_CV.pdf). -->
 
