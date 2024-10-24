@@ -11,7 +11,7 @@ redirect_from:
 I am a third-year Ph.D. student in Department of Computer Science at Purdue University. I am very fortunate to be advised by Prof. [Vishal Shrivastav](https://web.ics.purdue.edu/~vshriva/) and [Sonia Fahmy](https://www.cs.purdue.edu/homes/fahmy/) at [PurNet Lab](https://gitlab.com/purnet-lab/purnet-lab.gitlab.io/-/wikis/home).
 Previously, I obtained my bachelor's degree in Computer Science from Hunan University, where I spent two wonderful years working with Prof. [Daibo Liu](https://sites.google.com/site/dbliuuestc/). 
 Here is my [CV](https://wegul.github.io/files/weigaoCV-10_2024.pdf).
-> **I am currently looking for an internship in Summer 2025. Recruiters, please drop a line!**
+> **I am looking for an internship in Summer 2025. Recruiters, please drop a line!**
     
 <!-- This is my [CV](https://github.com/wegul/wegul/raw/main/files/weigaosu_CV.pdf). -->
 
@@ -25,7 +25,7 @@ Research
 My interests center around the design and optimization of systems for resource disaggregation inside datacenters. I take a holistic approach to push the envelope, spanning from low-level hardware design to high-level kernel optimizations. Specifically, my key projects are:
 - Leveraging new hardwares to improve the performance of memory disaggregation [[ASPLOS'25](https://wegul.github.io)];   
 - Adapting cache coherence to disaggregated rack with high utilization and minimum latency;    
-- Evaluating and unlocking the 'real' boundaries of packet processing capability of host network stack.   
+- Evaluating and unlocking the 'real' boundaries of packet processing capability in host network stack.   
 
 
 <!-- I also have keen appetite for many other areas. Check my [personal insights](https://wegul.github.io/wegul/year-archive/) of some recent works and feel free to leave a message, I would be more than happy to share my thoughts. -->
@@ -50,8 +50,8 @@ In the Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Te
 
 Service
 =======
-*AEC member:* SOSP 23'  
-*Reviewer:* Ubicomp 22'  
+*AEC member:* SOSP '23  
+*Reviewer:* Ubicomp '22  
 
 
 
