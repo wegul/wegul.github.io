@@ -23,7 +23,7 @@ Here is my [CV](https://wegul.github.io/files/weigaoCV-10_2024.pdf).
 Research
 ======
 My interests center around the design and optimization of systems for resource disaggregation inside datacenters. I take a holistic approach to push the envelope, spanning from low-level hardware design to high-level kernel optimizations. Specifically, my key projects are:
-- Leveraging new hardwares to improve the performance of memory disaggregation [[ASPLOS'25](https://wegul.github.io)];   
+- Leveraging new hardwares to improve the performance of memory disaggregation [[ASPLOS'25](https://arxiv.org/abs/2411.08300)];   
 - Adapting cache coherence to disaggregated rack with high utilization and minimum latency;    
 - Evaluating and unlocking the 'real' boundaries of packet processing capability in host network stack.   
 
@@ -32,7 +32,7 @@ My interests center around the design and optimization of systems for resource d
 
 Publications
 ======
-*"EDM: A Low Latency Ethernet Fabric for Memory Disaggregation"* [PDF](https://wegul.github.io)   
+*"EDM: A Low Latency Ethernet Fabric for Memory Disaggregation"* [PDF](https://arxiv.org/abs/2411.08300)   
 **Weigao Su**, Vishal Shrivastav.  
 In the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), March 2025
 
