@@ -32,7 +32,7 @@ My interests center around the design and optimization of systems for resource d
 
 Publications
 ======
-*"EDM: A Low Latency Ethernet Fabric for Memory Disaggregation"* [PDF](https://arxiv.org/abs/2411.08300)   
+*"EDM: An Ultra-Low Latency Ethernet Fabric for Memory Disaggregation"* [PDF](https://arxiv.org/abs/2411.08300)   
 **Weigao Su**, Vishal Shrivastav.  
 In the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), March 2025
 
