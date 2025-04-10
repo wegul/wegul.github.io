@@ -30,7 +30,7 @@ My interests center around the design and optimization of systems for resource d
 
 Publications
 ======
-*"EDM: An Ultra-Low Latency Ethernet Fabric for Memory Disaggregation"* [PDF](https://dl.acm.org/doi/abs/10.1145/3669940.3707221)   
+*"EDM: An Ultra-Low Latency Ethernet Fabric for Memory Disaggregation"* [PDF](https://dl.acm.org/doi/abs/10.1145/3669940.3707221), [Slides](https://wegul.github.io/files/EDM-Slides.pdf), [Code](https://github.com/wegul/EDM)   
 **Weigao Su**, Vishal Shrivastav.  
 In the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), March 2025
 
@@ -49,7 +49,7 @@ Service
 News  
 ======
 * Oct. 2024: EDM is finally accepted to ASPLOS'25. Getting ready for Rotterdam!  
-* Jan. 2024: [EDM](https://wegul.github.io/files/EDM_WIP_FAST_24.pdf) poster accepted to FAST'24. See y'all at Santa Clara!
+* Jan. 2024: [EDM poster](https://wegul.github.io/files/EDM-Poster.pdf)  accepted to FAST'24. See y'all at Santa Clara!
 * Aug. 2023: Received SIGCOMM'23 Travel Grant. Cant wait to visit NYC!
 * Jul. 2023: Glad to participate in artifact evaluation of SOSP 2023!
 * Apr. 2023: Will attend NSDI'23 in Boston!
