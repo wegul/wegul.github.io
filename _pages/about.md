@@ -30,9 +30,10 @@ My interests center around the design and optimization of systems for resource d
 
 Publications
 ======
-*"EDM: An Ultra-Low Latency Ethernet Fabric for Memory Disaggregation"* [Paper](https://dl.acm.org/doi/abs/10.1145/3669940.3707221), [Slides](https://wegul.github.io/files/EDM-Slides.pdf), [Code](https://github.com/wegul/EDM)   
+*"EDM: An Ultra-Low Latency Ethernet Fabric for Memory Disaggregation"*[Paper](https://dl.acm.org/doi/abs/10.1145/3669940.3707221), [Slides](https://wegul.github.io/files/EDM-Slides.pdf), [Code](https://github.com/wegul/EDM) (<em><font color="green">[Available]</font> <font color="red">[Evaluated]</font> <font color="blue">[Reproduced]</font></em>)      
 **Weigao Su**, Vishal Shrivastav.  
 In the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), March 2025
+
 
 *"Towards Device Independent Eavesdropping on Telephone Conversations with Built-in Accelerometer"*  [Paper](https://dl.acm.org/doi/abs/10.1145/3494969)  
 **Weigao Su**, Daibo Liu, Taiyuan Zhang, Hongbo Jiang.  
