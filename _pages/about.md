@@ -20,7 +20,7 @@ My research centers on the design and development of resource-disaggregated syst
 
 - Design network hardwares to improve the performance of disaggregated memory access [[ASPLOS'25](https://dl.acm.org/doi/abs/10.1145/3669940.3707221)];   
 - Build cache coherence protocol for large-scale memory disaggregation [In submission];    
-- Enabling high-efficiency GPU communication in AI clusters [In progress]
+- Enable high-efficiency GPU communication in AI clusters [In progress]
 - Co-design NIC hardware and network subsystems to enhance CPU cache affinity for zero-copy packet processing..
 
 
