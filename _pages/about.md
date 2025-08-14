@@ -8,24 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in Department of Computer Science at Purdue University. I am very fortunate to be advised by Prof. [Vishal Shrivastav](https://web.ics.purdue.edu/~vshriva/) and [Sonia Fahmy](https://www.cs.purdue.edu/homes/fahmy/) at [PurNet Lab](https://gitlab.com/purnet-lab/purnet-lab.gitlab.io/-/wikis/home).
+I am a fourth-year Ph.D. student in Department of Computer Science at Purdue University. I am very fortunate to be advised by Prof. [Vishal Shrivastav](https://web.ics.purdue.edu/~vshriva/) and [Sonia Fahmy](https://www.cs.purdue.edu/homes/fahmy/) at [PurNet Lab](https://gitlab.com/purnet-lab/purnet-lab.gitlab.io/-/wikis/home).
 Previously, I obtained my bachelor's degree in Computer Science from Hunan University, where I spent two wonderful years working with Prof. [Daibo Liu](https://sites.google.com/site/dbliuuestc/). 
 Here is my [CV](https://wegul.github.io/files/weigaoCV-10_2024.pdf).
-> **I am looking for an internship in Summer 2025. Recruiters, please drop a line!**
-    
-<!-- This is my [CV](https://github.com/wegul/wegul/raw/main/files/weigaosu_CV.pdf). -->
-
-<!-- *I will join Purdue University in 2022Fall for Ph.D. study. Boiler Up!!!* -->
-
 
 
 
 Research
 ======
-My interests center around the design and optimization of systems for resource disaggregation inside datacenters. I take a holistic approach to push the envelope, spanning from low-level hardware design to high-level kernel optimizations. Specifically, my key projects are:
-- Tweaking network hardwares to improve the performance of remote memory access [[ASPLOS'25](https://dl.acm.org/doi/abs/10.1145/3669940.3707221)];   
-- Adapting cache coherence to disaggregated rack with high utilization and minimal latency [In submission];    
-- Improving GPU communication efficiency in ML clusters for better GPU utilization rate and job completion time.   
+My research centers on the design and development of resource-disaggregated system in data center, covering hardware architectures as well as application and OS kernel-level advancements.
+
+- Design network hardwares to improve the performance of disaggregated memory access [[ASPLOS'25](https://dl.acm.org/doi/abs/10.1145/3669940.3707221)];   
+- Build cache coherence protocol for large-scale memory disaggregation [In submission];    
+- Enabling high-efficiency GPU communication in AI clusters [In progress]
+- Co-design NIC hardware and network subsystems to enhance CPU cache affinity for zero-copy packet processing..
 
 
 Publications
@@ -50,13 +46,15 @@ Service
 
 News  
 ======
+* Aug. 2025: I joined Nvidia AI Networking Team as a research intern!
+* Aug. 2025: I had a GREAT summer in Hewlett Packard (now HPE) Labs as a research intern!
 * Oct. 2024: EDM is finally accepted to ASPLOS'25. Getting ready for Rotterdam!  
-* Jan. 2024: [EDM poster](https://wegul.github.io/files/EDM-Poster.pdf)  accepted to FAST'24. See y'all at Santa Clara!
-* Aug. 2023: Received SIGCOMM'23 Travel Grant. Cant wait to visit NYC!
-* Jul. 2023: Glad to participate in artifact evaluation of SOSP 2023!
-* Apr. 2023: Will attend NSDI'23 in Boston!
+* Jan. 2024: [EDM poster](https://wegul.github.io/files/EDM-Poster.pdf)  is accepted to FAST'24.
 
   
+<!--* Aug. 2023: Received SIGCOMM'23 Travel Grant. Cant wait to visit NYC!-->
+<!--* Jul. 2023: Glad to participate in artifact evaluation of SOSP 2023!-->
+<!--* Apr. 2023: Will attend NSDI'23 in Boston!-->
 <!--* Mar. 2022: I will join PurdueCS as a Ph.D. student!-->
 <!--* Oct. 2021: Vibphone accepted to Ubicomp 2021!   -->
 
